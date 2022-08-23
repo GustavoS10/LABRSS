@@ -1,0 +1,11 @@
+#CFooter{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background: #c64d08;
+    text-align: center;
+}
+#CFooter h1{
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #053027;
+}

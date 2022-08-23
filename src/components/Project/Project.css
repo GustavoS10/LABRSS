@@ -1,0 +1,18 @@
+
+#CProject{
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    text-align: start;
+    background: #296040;
+}
+#CProject h1{
+    font-size: 2.5rem;
+    font-weight: 500;
+    color: #fe8c05;
+    margin:2rem;
+}
+#CProject p{
+    font-size: 1.2rem;
+    margin:2rem;
+    font-weight: 500;
+}
