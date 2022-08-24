@@ -1,0 +1,22 @@
+.navbar{
+    background-color: #e68618;
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+.navbar .navbar-brand{
+    border: 1px solid #000000;
+    padding: 9px;
+    border-radius: 40px 5px 40px 5px;
+}
+.navbar .navbar-brand img{
+    width: 30px;
+    height: 30px;
+}
+.navbar .navbar-nav .nav-item a{
+    text-decoration: none;
+    color: #000000;
+}
+.navbar .navbar-nav .nav-item a:hover{
+    text-decoration: wavy underline #c3c3c3;
+
+}
